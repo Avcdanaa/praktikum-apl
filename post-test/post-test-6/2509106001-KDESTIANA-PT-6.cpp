@@ -136,7 +136,7 @@ void menuSorting(DataWisata *arr, int count) {
 
 void fiturPencarian(DataWisata *arr, int count) {
     int pil;
-    cout << "\n=== FITUR PENCARIAN (MODUL 6) ===" << endl;
+    cout << "\n=== FITUR PENCARIAN  ===" << endl;
     cout << "1. Cari berdasarkan ID (Binary Search)" << endl;
     cout << "2. Cari berdasarkan Nama (Linear Search)" << endl;
     cout << "Pilihan: "; cin >> pil;
